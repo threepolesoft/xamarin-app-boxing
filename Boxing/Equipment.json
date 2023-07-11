@@ -1,0 +1,27 @@
+[
+	{
+		"Title" : "01. Boxing Gloves",
+		"Des" : "Boxing Gloves are one of the most important parts of boxing. With this, it becomes utterly crucial to pick the right size and models as these gloves will be worn both in practice and matches too. Generally, these gloves are measured in weight. So, the boxers have to choose between 10,12,16, or 20 ounces of gloves. The weight of gloves also depends on the boxer’s body weight and his/her skills. Some boxers also opt for Handwraps as they play an essential part in protecting their wrists. Handwraps make sure that a boxer’s wrist is protected from getting injured, or broken.",
+		"IsVisible" : false
+	},
+	{
+		"Title" : "02. Mouthguard",
+		"Des" : "Mouthguards are compulsory in a boxing match. Basically, these mouthguards are made up of a rubber-type material. Mouthguards are supposed to protect the boxer’s mouth while they are in an intense fight. These mouthguards are made in a way that it makes the boxer feel safe and comfortable while he/she uses them. Mouthguards are available in several price ranges depending on the protection, material, brand, and size.",
+		"IsVisible" : false
+	},
+	{
+		"Title" : "03. Ring Shoes",
+		"Des" : "Ring shoes play an important role in boxing as it helps in improving the footwork during the boxing match. Everyone should own ring shoes, irrespective of the level they play at. Picking the right ring shoes will provide you with much-needed ankle support. There are several options available for ring shoes depending on pricing.",
+		"IsVisible" : false
+	},
+	{
+		"Title" : "04. Head Protector",
+		"Des" : "A head protector is a must for protecting the boxer’s head while he/she is in the boxing ring. Generally, the head is considered to be the main punching area in boxing, so the head protector comes with padded support.",
+		"IsVisible" : false
+	},
+	{
+		"Title" : "05. Heavy Bag",
+		"Des"	: "Heavy Bag comes in handy when a boxer wishes to train outside a gym with any kind of equipment. Doing practice with a heavy bag is quite important as it will help you in making your game better and much stronger than at the present level. While choosing a heavy bag, always pick the bulkiest one and not the lighter ones. The lighter ones swing too much.",
+		"IsVisible" : false
+	}
+]

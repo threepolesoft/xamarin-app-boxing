@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Boxing.Views"
+            x:Class="Boxing.Views.Main"
+            Title="Boxing Info"
+            >
+  <!--Pages can be added as references or inline-->
+    
+    <ContentPage Title="Home">
+
+        <ScrollView Orientation="Vertical" VerticalOptions="Start" Padding="5">
+            
+            <StackLayout Orientation="Vertical">
+                <StackLayout>
+
+                    <Label
+                Text="The Definition of Boxing"
+                TextColor="Black"
+                FontSize="34"
+                />
+                    <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand"/>
+                    <Label
+                Text="Boxing is a combat sport in which two players fight against each other by using their will, reflexes, endurance, speed and strength. They also throw punches with gloves wearing on their hands against each other. Interestingly the game of boxing is also known as a sweet science, English boxing, Pugilism, Western Boxing and gentleman's sport. The players involved in the game of boxing are called boxers. Most of the time, the boxers focus on punching and striking each other. The origin of modern boxing is believed to be in the United Kingdom."
+                TextColor="Black" 
+                FontSize="18"
+                />
+                </StackLayout>
+
+                <StackLayout>
+
+                    <Label
+                Text="The Definition of Boxing"
+                TextColor="Black"
+                FontSize="34"
+                />
+                    <BoxView HeightRequest="1" BackgroundColor="Black" HorizontalOptions="FillAndExpand"/>
+                    <Label
+                Text="Boxing is a combat sport in which two players fight against each other by using their will, reflexes, endurance, speed and strength. They also throw punches with gloves wearing on their hands against each other. Interestingly the game of boxing is also known as a sweet science, English boxing, Pugilism, Western Boxing and gentleman's sport. The players involved in the game of boxing are called boxers. Most of the time, the boxers focus on punching and striking each other. The origin of modern boxing is believed to be in the United Kingdom."
+                TextColor="Black" 
+                FontSize="18"
+                />
+                    
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage>
+
+
+    <local:TopTen Title="Top Ten"/>
+
+    <local:Equipment Title="Equipment"/>
+
+    <local:Rule Title="Rule"/>
+
+</TabbedPage>
